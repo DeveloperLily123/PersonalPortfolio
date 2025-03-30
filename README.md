@@ -28,7 +28,7 @@ Here’s how my repositories are organized:
 
 **Popular Repositories**:
 
-- [**ReadMeVersion2**](#): Updated version of my README showcasing key projects and updates.
+- [**PersonalPortfolio**](#): Updated version of my README showcasing key projects and updates.
 - [**push-it-easily**](#): Exploring the process of pushing changes to repositories quickly.
 - [**DeveloperLily123**](#): Personal project repository showcasing various learning milestones.
 - [**my_project**](#): A placeholder project for testing and experimenting with different technologies.
